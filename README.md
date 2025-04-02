@@ -3,7 +3,7 @@ A package containing some of my scripts and an installer for all of them
 ## Usage
 To install and create manual entries which you can later acces run:  
 ```
-    sudo ./m_utils_installer.sh  
+    sudo ./m_utils_install.sh  
 ```
 The script clones the following repositores:
 1.  [Sheepsay](https://github.com/mara291/Sheepsay.git)
